@@ -7,4 +7,4 @@ Localization using c# and devexpress Arabic/English
 
 ## ScreenShots
 - Some of screen shots
-![localization](https://raw.githubusercontent.com/GhadyAlhamad/CSharpLocalization/main/src/assets/images/1.PNG)
+![localization](https://raw.githubusercontent.com/GhadyAlhamad/CSharpLocalization/main/images/1.PNG)
